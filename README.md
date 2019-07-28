@@ -12,6 +12,8 @@ root = Tk()
 root.mainloop()
 
 #install tkinter on python 3
+
 #plaform ubuntu
+
 sudo apt-get install python3-tk
 
